@@ -43,7 +43,7 @@ My development journey is focused on learning strong fundamentals, building real
 ```python
 class Developer:
 
-    name = "AJU"
+    name = "AJMAL"
     role = "Student Developer"
 
     interests = [

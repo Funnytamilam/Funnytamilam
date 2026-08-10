@@ -26,7 +26,7 @@
 
 ---
 
-# 👋 Hey, I'm AJU
+# 👋 Hey, I'm AJMAL
 
 ### 💻 Student Developer • Python Developer • Future Software / AI Engineer
 

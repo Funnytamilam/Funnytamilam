@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF"/>
+<img src="https://komarev.com/ghpvc/?username=funnytamilam&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF"/>
 
 <br><br>
 
